@@ -1,2 +1,4 @@
-# bcc-ufabc
-Notebooks for introdutctory programming course in Python
+# Bases Computacionais da Ciência
+
+Este repositório contém os *Notebooks* (Jupyter Notebooks) com as aulas introdutórias de programação
+
