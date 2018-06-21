@@ -4,5 +4,5 @@ Este repositório contém os notebooks (*Jupyter Notebooks*) com as aulas introd
 
 Você pode abrir os notebooks usando o Binder. 
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/daniel-ufabc/bcc-ufabc)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/daniel-ufabc/bcc-ufabc/master)
 
